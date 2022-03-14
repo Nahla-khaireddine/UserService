@@ -8,6 +8,6 @@ public class UserController {
 
     @RequestMapping
     public String getUsers() {
-        return "user is nahla kh";
+        return "user is nahla khaireddine";
     }
 }
